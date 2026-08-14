@@ -25,6 +25,7 @@
 - 📰 Ecosystem News
 
 ## Plugin Directory
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 **97 community plugins** have been listed.
 
