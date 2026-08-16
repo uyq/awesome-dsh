@@ -1,6 +1,6 @@
 # Registry Index
 
-Machine-readable registry entries for the 97 imported plugins.
+Machine-readable registry entries for the 98 imported plugins.
 
 | Plugin | Registry | Primary category | Source |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Machine-readable registry entries for the 97 imported plugins.
 | [dsh-automation](https://github.com/titanwings/dsh-automation) | [`dsh-automation/plugin.json`](dsh-automation/plugin.json) | Workflow & Automation | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
 | [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | [`dsh-chat-import/plugin.json`](dsh-chat-import/plugin.json) | Sessions & Messages | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
 | [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) | [`dsh-computer-use/plugin.json`](dsh-computer-use/plugin.json) | Vision & Computer Use | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| [dsh-context](https://github.com/bowenliang123/dsh-context) | [`dsh-context/plugin.json`](dsh-context/plugin.json) | Observability | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
 | [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) | [`dsh-context-doctor/plugin.json`](dsh-context-doctor/plugin.json) | Observability | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
 | [dsh-conversation-share](https://github.com/bill9109/dsh-conversation-share) | [`dsh-conversation-share/plugin.json`](dsh-conversation-share/plugin.json) | Sessions & Messages | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
 | [dsh-cowork](https://github.com/Jesse-njx/dsh-cowork) | [`dsh-cowork/plugin.json`](dsh-cowork/plugin.json) | Data & Documents | [upstream list](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
