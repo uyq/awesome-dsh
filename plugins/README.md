@@ -1,6 +1,6 @@
 # DSH Plugin Directory
 
-> 97 community plugins imported from the upstream Awesome DSH Plugin list, reclassified for the Awesome DSH registry.
+> 98 community plugins imported from the upstream Awesome DSH Plugin list, reclassified for the Awesome DSH registry.
 
 Each entry links to the original project repository. Awesome DSH does **not** copy plugin source code into this repository.
 
@@ -16,7 +16,7 @@ Each entry links to the original project repository. Awesome DSH does **not** co
 - [Integrations](integrations.md) — 4 entries
 - [Notifications](notifications.md) — 3 entries
 - [Development & Runtime](runtime.md) — 13 entries
-- [Observability](observability.md) — 2 entries
+- [Observability](observability.md) — 3 entries
 - [Usage & Cost](usage.md) — 1 entries
 - [Just for Fun](fun.md) — 11 entries
 

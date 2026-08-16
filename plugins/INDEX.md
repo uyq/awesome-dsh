@@ -1,6 +1,6 @@
 # Plugin Index
 
-**97 plugins** from the upstream [Awesome DSH Plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) list, reclassified into the Awesome DSH taxonomy.
+**98 plugins** from the upstream [Awesome DSH Plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) list, reclassified into the Awesome DSH taxonomy.
 
 | Plugin | Category | Description |
 |---|---|---|
@@ -18,6 +18,7 @@
 | [dsh-automation](https://github.com/titanwings/dsh-automation) | [Workflow & Automation](plugins/workflow.md) | Scheduled coding runs in fresh agent sessions with auditable history. |
 | [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | [Sessions & Messages](plugins/sessions.md) | Import Claude Code / Codex / ChatGPT / Cursor chat histories as resumable DeepSeek Harness sessions. |
 | [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) | [Vision & Computer Use](plugins/vision.md) | Accessibility-first macOS computer use: fresh observations, stale-state rejection, scoped permissions, and safe input. |
+| [dsh-context](https://github.com/bowenliang123/dsh-context) | [Observability](plugins/observability.md) | Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats. |
 | [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) | [Observability](plugins/observability.md) | Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection. |
 | [dsh-conversation-share](https://github.com/bill9109/dsh-conversation-share) | [Sessions & Messages](plugins/sessions.md) | Share any excerpt of a conversation. |
 | [dsh-cowork](https://github.com/Jesse-njx/dsh-cowork) | [Data & Documents](plugins/data.md) | Bounded, cell-addressed `doc_read`/`doc_write` for xlsx / pdf / docx / pptx / ipynb, plus an MCP server and CLI. |

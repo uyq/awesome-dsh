@@ -1,0 +1,28 @@
+{
+  "name": "dsh-context",
+  "repository": "https://github.com/bowenliang123/dsh-context",
+  "description": "Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.",
+  "source_category": "UI Enhancements",
+  "category": "observability",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "observability"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "observability",
+    "ui"
+  ]
+}
