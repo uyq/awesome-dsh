@@ -1,0 +1,36 @@
+{
+  "name": "dsh-sieve",
+  "repository": "https://github.com/Sev7eEn7/sieve",
+  "description": "Filters tool outputs, prunes stale context and discloses skills on demand for DSH 0.2.1-alpha.1.",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "context-management"
+  ],
+  "capabilities": [
+    "tool-output-filtering",
+    "context-pruning",
+    "skill-disclosure"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "language": [
+    "typescript"
+  ],
+  "license": "MIT",
+  "status": "experimental",
+  "official": false,
+  "maintained": true,
+  "version": "0.1.0",
+  "install": {
+    "method": "npm",
+    "command": "dsh plugin --profile headless add dsh-sieve@0.1.0"
+  },
+  "source": "creator-submission",
+  "verification": {
+    "listed_by_source": false,
+    "repository_url_checked": true
+  }
+}
