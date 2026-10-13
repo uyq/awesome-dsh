@@ -1,0 +1,42 @@
+{
+  "name": "dsh-version-guard",
+  "repository": "https://github.com/skyjjgw/dsh-version-guard",
+  "description": "Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "developer-tools"
+  ],
+  "capabilities": [
+    "profile-snapshots",
+    "configuration-rollback"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "language": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "status": "experimental",
+  "official": false,
+  "maintained": true,
+  "version": "0.1.0",
+  "install": {
+    "method": "github",
+    "command": "dsh plugin --profile web add github:skyjjgw/dsh-version-guard"
+  },
+  "source": "creator-submission",
+  "source_repository": "https://github.com/skyjjgw/dsh-version-guard",
+  "verification": {
+    "listed_by_source": false,
+    "repository_url_checked": true,
+    "last_checked": "2026-10-13T15:43:20.514Z"
+  },
+  "tags": [
+    "local-filesystem",
+    "local-http",
+    "explicit-package-management"
+  ]
+}
